@@ -1,0 +1,23 @@
+# MetaTrader build and runtime artifacts
+*.ex5
+*.log
+*.csv
+*.htm
+*.html
+artifacts/
+
+# MetaEditor and local runtime files
+.mqproj
+.idea/
+.vscode/
+
+# Python environments and cache
+.venv/
+__pycache__/
+*.py[cod]
+
+# Local research scratch files
+scratch.*
+runbacktest-scratch-*.ini
+last_backtest.json
+validation_matrix.json
