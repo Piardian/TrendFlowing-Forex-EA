@@ -4,6 +4,10 @@ TrendFlowing is a modular MetaTrader 5 Expert Advisor for systematic Forex resea
 
 > Research software only. This repository is not investment advice and does not guarantee future performance.
 
+## Development approach
+
+This is a Vibe Coding project: the research direction, architecture, risk controls, and validation scope are author-directed, while implementation was developed iteratively with AI-assisted coding tools. The repository is published transparently as a research artifact and remains subject to ongoing testing, review, and refinement.
+
 ## What it does
 
 - Detects a higher-timeframe trend using EMA and ADX filters.
